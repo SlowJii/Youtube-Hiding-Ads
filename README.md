@@ -3,3 +3,6 @@ Script collected from China for hiding pop-up ads on YouTube. Just hiding (NOT B
 
 Use Tampermonkey to install this script
 
+# Active Window 10 Pro
+irm https://massgrave.dev/get | iex
+
